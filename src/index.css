@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  border: 5px solid #000;
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+  background: #cdcdcd;
+  font-size: 24px;
+}
